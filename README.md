@@ -2,7 +2,7 @@
 
 ## Deadline: August 31 by 9:35am
 
-For the second activity you will sign up and get familiarized with TryHackMe platform. You will then complete a simple Linux fundamentals walkthrough.
+For the second and third activities you will sign up and get familiarized with TryHackMe platform. You will then complete two simple Linux fundamentals walkthroughs.
 
 ## Assignment
 
