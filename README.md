@@ -1,11 +1,11 @@
-# Class Activity 2
+# Class Activity 2 and 3
 
 For the second activity you will sign up and get familiarized with TryHackMe platform. You will then complete a simple Linux fundamentals walkthrough.
 
 ## Assignment
 
 -  Create an account on [TryHackMe](www.tryhackme.com/signup) using your Allegheny email.
--  Complete [Activity 2](https://tryhackme.com/jr/linuxfundamentalspart1mi) directly on TryHackMe.
+-  Complete [Activity 2](https://tryhackme.com/jr/linuxfundamentalspart1mi) and [Activity 3](https://tryhackme.com/jr/linuxfundamentalspart2vk) directly on TryHackMe.
 
 ## Submission
 
