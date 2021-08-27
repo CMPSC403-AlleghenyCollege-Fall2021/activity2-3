@@ -11,4 +11,4 @@ For the second activity you will sign up and get familiarized with TryHackMe pla
 
 ## Submission
 
-You do not need to submit anything via GitHub for this activity. Instead, please complete Activity 2 durectly on TryHackMe using the link provided above.
+You do not need to submit anything via GitHub for this activity. Instead, please complete Activity 2 and Activity 3 directly on TryHackMe using the link provided above.
