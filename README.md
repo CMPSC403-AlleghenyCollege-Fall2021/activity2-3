@@ -1,5 +1,7 @@
 # Class Activities 2 and 3
 
+## Deadline: August 31
+
 For the second activity you will sign up and get familiarized with TryHackMe platform. You will then complete a simple Linux fundamentals walkthrough.
 
 ## Assignment
