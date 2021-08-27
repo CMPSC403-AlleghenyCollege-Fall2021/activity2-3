@@ -1,4 +1,4 @@
-# Class Activity 2 and 3
+# Class Activities 2 and 3
 
 For the second activity you will sign up and get familiarized with TryHackMe platform. You will then complete a simple Linux fundamentals walkthrough.
 
